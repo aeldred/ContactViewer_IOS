@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FB5F6F29-0781-408E-8EAB-703B0D1ED4D3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ContactVieweriOs</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>18BFF4777D38BD95E8F6492682E4DB57183A19BB</key>
+		<string>https://github.com/trozymotto/ContactVieweriOs.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ContactVieweriOs/ContactVieweriOs/ContactVieweriOs.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>18BFF4777D38BD95E8F6492682E4DB57183A19BB</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/trozymotto/ContactVieweriOs.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>18BFF4777D38BD95E8F6492682E4DB57183A19BB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>18BFF4777D38BD95E8F6492682E4DB57183A19BB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>test</string>
+		</dict>
+	</array>
+</dict>
+</plist>
