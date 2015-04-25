@@ -25,8 +25,6 @@ class MasterViewController: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        self.getAllContacts()
-        
         //self.tableView.reloadData()
         
         // Do any additional setup after loading the view, typically from a nib.
@@ -41,6 +39,7 @@ class MasterViewController: UITableViewController {
     }
 
     override func viewDidAppear(animated: Bool) {
+        self.getAllContacts()
         self.tableView.reloadData()
     }
     
@@ -117,6 +116,7 @@ class MasterViewController: UITableViewController {
         var request = NSMutableURLRequest(URL: url)
         request.HTTPMethod = "GET"
         let session = NSURLSession.sharedSession()
+        NSLog("getAllContacts")
         let task = session.dataTaskWithRequest(request, completionHandler:{data, response, error ->
             Void in
             // deserialize the response
